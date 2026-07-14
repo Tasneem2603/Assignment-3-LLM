@@ -2,8 +2,8 @@
 
 ## Student Information
 - **Name:** Tasneem Syed
-- **Course:** Artificial Intelligence for Business
-- **Assignment:** Assignment 3 – Large Language Models
+- **Course:** Large Language Models, Prompting, and Agentic AI
+- **Assignment:** Assignment 3 
 
 ## Project Overview
 
